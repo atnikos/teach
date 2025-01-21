@@ -213,10 +213,13 @@ We thank [Benjamin Pellkofer](https://is.mpg.de/person/bpellkofer) for his IT su
 Many part of this code were based on the official implementation of [TEMOS](https://github.com/Mathux/TEMOS). Here are some great resources we benefit:
 
 - SMPL models and layer is from [SMPL-X model](https://github.com/vchoutas/smplx).
-## Contact
+### Contact
 
 This code repository was implemented mainly by [Nikos Athanasiou](https://is.mpg.de/~nathanasiou) with the help of [Mathis Petrovich](https://mathis.petrovich.fr/).
 
-Give a ⭐  if you like.
+Give a ⭐ if you like.
 
 For commercial licensing (and all related questions for business applications), please contact ps-licensing@tue.mpg.de.
+
+### Star History
+<img src="https://api.star-history.com/svg?repos=atnikos/teach&type=Date" width="400" height="300" alt="Star History Chart">
