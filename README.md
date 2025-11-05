@@ -5,6 +5,7 @@
     <a href='https://arxiv.org/abs/2209.04066'>
     <img src='https://img.shields.io/badge/arxiv-report-red' alt='ArXiv PDF'>
     </a>
+    <a href="https://deepwiki.com/atnikos/motionfix"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
     <a href='https://teach.is.tue.mpg.de/' style='padding-left: 0.5rem;'>
     <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
   </h1>
