@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <h1 align="center">TEACH: Temporal Action Compositions for 3D Humans
+  <h1 align="center">TEACH: Temporal Action Compositions for 3D Humans<br>
     <a href='https://arxiv.org/abs/2209.04066'>
     <img src='https://img.shields.io/badge/arxiv-report-red' alt='ArXiv PDF'>
     </a>
